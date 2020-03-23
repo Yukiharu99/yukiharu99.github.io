@@ -23,7 +23,7 @@ function attChapterSelect(capAtual) {
             selectElem.appendChild(item);
         }
         // Carregar capitulo atual
-        attPageSelect(capAtual, jsonData);
+        attPageSelect(capAtual);
     } else {
         console.log("fail");
     }
