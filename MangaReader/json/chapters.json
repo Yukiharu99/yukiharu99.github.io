@@ -1,0 +1,23 @@
+[
+    {
+        "chapterNumber":1,
+        "chapterDir":"../AzurLane/resources/manga/cap1/",
+        "imgName": [
+            "cap1_pag1.png",
+            "cap1_pag2.png",
+            "cap1_pag3.png",
+            "cap1_pag4.png"
+        ]
+    },
+
+    {
+        "chapterNumber":2,
+        "chapterDir":"../AzurLane/resources/manga/cap2/",
+        "imgName": [
+            "cap2_pag1.png",
+            "cap2_pag2.png",
+            "cap2_pag3.png",
+            "cap2_pag4.png"
+        ]
+    }
+]

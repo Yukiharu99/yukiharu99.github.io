@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <title>MangaReader Beta</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <script src="./js/scripts.js"></script>
+
+    <style>
+        body {
+            background-color: #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0%;
+            padding: 0%;
+        }
+
+        article {
+            background-color: #ddd;
+        }
+
+        select {
+            margin: 10px;
+        }
+
+        img {
+            max-height: 90vh;
+        }
+    </style>
+
+    <body>
+        <article>
+            <img src="" alt="img not loaded" id="page_img">
+            <br>
+            <select name="chapter" id="chapter_selector" onchange="attChapterSelect(this.value)"></select>
+            <select name="page" id="page_selector" onchange="changeImg(this.value)"></select>
+        </article>
+    </body>
+</html>
