@@ -1,0 +1,1658 @@
+[
+    {
+        "dir": "img/shipgirlIcon/22Icon.png",
+        "shipname": "22"
+    },
+    {
+        "dir": "img/shipgirlIcon/33Icon.png",
+        "shipname": "33"
+    },
+    {
+        "dir": "img/shipgirlIcon/AbercrombieIcon.png",
+        "shipname": "Abercrombie"
+    },
+    {
+        "dir": "img/shipgirlIcon/AbukumaIcon.png",
+        "shipname": "Abukuma"
+    },
+    {
+        "dir": "img/shipgirlIcon/AcastaIcon.png",
+        "shipname": "Acasta"
+    },
+    {
+        "dir": "img/shipgirlIcon/AchillesIcon.png",
+        "shipname": "Achilles"
+    },
+    {
+        "dir": "img/shipgirlIcon/Admiral_Graf_SpeeIcon.png",
+        "shipname": "Admiral Graf Spee"
+    },
+    {
+        "dir": "img/shipgirlIcon/Admiral_HipperIcon.png",
+        "shipname": "Admiral Hipper"
+    },
+    {
+        "dir": "img/shipgirlIcon/Admiral_Hipper_(Muse)Icon.png",
+        "shipname": "Admiral Hipper (Muse)"
+    },
+    {
+        "dir": "img/shipgirlIcon/AganoIcon.png",
+        "shipname": "Agano"
+    },
+    {
+        "dir": "img/shipgirlIcon/AjaxIcon.png",
+        "shipname": "Ajax"
+    },
+    {
+        "dir": "img/shipgirlIcon/Akagi-chanIcon.png",
+        "shipname": "Akagi-chan"
+    },
+    {
+        "dir": "img/shipgirlIcon/AkagiIcon.png",
+        "shipname": "Akagi"
+    },
+    {
+        "dir": "img/shipgirlIcon/Akagi_(Muse)Icon.png",
+        "shipname": "Akagi (Muse)"
+    },
+    {
+        "dir": "img/shipgirlIcon/AkashiIcon.png",
+        "shipname": "Akashi"
+    },
+    {
+        "dir": "img/shipgirlIcon/AkatsukiIcon.png",
+        "shipname": "Akatsuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/AlabamaIcon.png",
+        "shipname": "Alabama"
+    },
+    {
+        "dir": "img/shipgirlIcon/AlbacoreIcon.png",
+        "shipname": "Albacore"
+    },
+    {
+        "dir": "img/shipgirlIcon/AlgérieIcon.png",
+        "shipname": "Algérie"
+    },
+    {
+        "dir": "img/shipgirlIcon/AmagiIcon.png",
+        "shipname": "Amagi"
+    },
+    {
+        "dir": "img/shipgirlIcon/AmazonIcon.png",
+        "shipname": "Amazon"
+    },
+    {
+        "dir": "img/shipgirlIcon/Anniversary_Kizuna_AIIcon.png",
+        "shipname": "Anniversary Kizuna AI"
+    },
+    {
+        "dir": "img/shipgirlIcon/An_ShanIcon.png",
+        "shipname": "An Shan"
+    },
+    {
+        "dir": "img/shipgirlIcon/AobaIcon.png",
+        "shipname": "Aoba"
+    },
+    {
+        "dir": "img/shipgirlIcon/ArashioIcon.png",
+        "shipname": "Arashio"
+    },
+    {
+        "dir": "img/shipgirlIcon/ArdentIcon.png",
+        "shipname": "Ardent"
+    },
+    {
+        "dir": "img/shipgirlIcon/ArethusaIcon.png",
+        "shipname": "Arethusa"
+    },
+    {
+        "dir": "img/shipgirlIcon/AriakeIcon.png",
+        "shipname": "Ariake"
+    },
+    {
+        "dir": "img/shipgirlIcon/ArizonaIcon.png",
+        "shipname": "Arizona"
+    },
+    {
+        "dir": "img/shipgirlIcon/Ark_RoyalIcon.png",
+        "shipname": "Ark Royal"
+    },
+    {
+        "dir": "img/shipgirlIcon/AsashioIcon.png",
+        "shipname": "Asashio"
+    },
+    {
+        "dir": "img/shipgirlIcon/AshigaraIcon.png",
+        "shipname": "Ashigara"
+    },
+    {
+        "dir": "img/shipgirlIcon/AstoriaIcon.png",
+        "shipname": "Astoria"
+    },
+    {
+        "dir": "img/shipgirlIcon/AtagoIcon.png",
+        "shipname": "Atago"
+    },
+    {
+        "dir": "img/shipgirlIcon/AtlantaIcon.png",
+        "shipname": "Atlanta"
+    },
+    {
+        "dir": "img/shipgirlIcon/AulickIcon.png",
+        "shipname": "Aulick"
+    },
+    {
+        "dir": "img/shipgirlIcon/AuroraIcon.png",
+        "shipname": "Aurora"
+    },
+    {
+        "dir": "img/shipgirlIcon/AvroraIcon.png",
+        "shipname": "Avrora"
+    },
+    {
+        "dir": "img/shipgirlIcon/AyanamiIcon.png",
+        "shipname": "Ayanami"
+    },
+    {
+        "dir": "img/shipgirlIcon/AylwinIcon.png",
+        "shipname": "Aylwin"
+    },
+    {
+        "dir": "img/shipgirlIcon/AzumaIcon.png",
+        "shipname": "Azuma"
+    },
+    {
+        "dir": "img/shipgirlIcon/BacheIcon.png",
+        "shipname": "Bache"
+    },
+    {
+        "dir": "img/shipgirlIcon/BaileyIcon.png",
+        "shipname": "Bailey"
+    },
+    {
+        "dir": "img/shipgirlIcon/BaltimoreIcon.png",
+        "shipname": "Baltimore"
+    },
+    {
+        "dir": "img/shipgirlIcon/BataanIcon.png",
+        "shipname": "Bataan"
+    },
+    {
+        "dir": "img/shipgirlIcon/BeagleIcon.png",
+        "shipname": "Beagle"
+    },
+    {
+        "dir": "img/shipgirlIcon/BelfastIcon.png",
+        "shipname": "Belfast"
+    },
+    {
+        "dir": "img/shipgirlIcon/BensonIcon.png",
+        "shipname": "Benson"
+    },
+    {
+        "dir": "img/shipgirlIcon/BiloxiIcon.png",
+        "shipname": "Biloxi"
+    },
+    {
+        "dir": "img/shipgirlIcon/BirminghamIcon.png",
+        "shipname": "Birmingham"
+    },
+    {
+        "dir": "img/shipgirlIcon/BismarckIcon.png",
+        "shipname": "Bismarck"
+    },
+    {
+        "dir": "img/shipgirlIcon/Black_HeartIcon.png",
+        "shipname": "Black Heart"
+    },
+    {
+        "dir": "img/shipgirlIcon/Black_PrinceIcon.png",
+        "shipname": "Black Prince"
+    },
+    {
+        "dir": "img/shipgirlIcon/BlancIcon.png",
+        "shipname": "Blanc"
+    },
+    {
+        "dir": "img/shipgirlIcon/BluegillIcon.png",
+        "shipname": "Bluegill"
+    },
+    {
+        "dir": "img/shipgirlIcon/BogueIcon.png",
+        "shipname": "Bogue"
+    },
+    {
+        "dir": "img/shipgirlIcon/BremertonIcon.png",
+        "shipname": "Bremerton"
+    },
+    {
+        "dir": "img/shipgirlIcon/BrooklynIcon.png",
+        "shipname": "Brooklyn"
+    },
+    {
+        "dir": "img/shipgirlIcon/BulldogIcon.png",
+        "shipname": "Bulldog"
+    },
+    {
+        "dir": "img/shipgirlIcon/Bunker_HillIcon.png",
+        "shipname": "Bunker Hill"
+    },
+    {
+        "dir": "img/shipgirlIcon/BushIcon.png",
+        "shipname": "Bush"
+    },
+    {
+        "dir": "img/shipgirlIcon/BéarnIcon.png",
+        "shipname": "Béarn"
+    },
+    {
+        "dir": "img/shipgirlIcon/CaliforniaIcon.png",
+        "shipname": "California"
+    },
+    {
+        "dir": "img/shipgirlIcon/CarabiniereIcon.png",
+        "shipname": "Carabiniere"
+    },
+    {
+        "dir": "img/shipgirlIcon/CasablancaIcon.png",
+        "shipname": "Casablanca"
+    },
+    {
+        "dir": "img/shipgirlIcon/CassinIcon.png",
+        "shipname": "Cassin"
+    },
+    {
+        "dir": "img/shipgirlIcon/CavallaIcon.png",
+        "shipname": "Cavalla"
+    },
+    {
+        "dir": "img/shipgirlIcon/CentaurIcon.png",
+        "shipname": "Centaur"
+    },
+    {
+        "dir": "img/shipgirlIcon/Chang_ChunIcon.png",
+        "shipname": "Chang Chun"
+    },
+    {
+        "dir": "img/shipgirlIcon/ChapayevIcon.png",
+        "shipname": "Chapayev"
+    },
+    {
+        "dir": "img/shipgirlIcon/Charles_AusburneIcon.png",
+        "shipname": "Charles Ausburne"
+    },
+    {
+        "dir": "img/shipgirlIcon/ChaserIcon.png",
+        "shipname": "Chaser"
+    },
+    {
+        "dir": "img/shipgirlIcon/ChicagoIcon.png",
+        "shipname": "Chicago"
+    },
+    {
+        "dir": "img/shipgirlIcon/ChoukaiIcon.png",
+        "shipname": "Choukai"
+    },
+    {
+        "dir": "img/shipgirlIcon/CleveladIcon.png",
+        "shipname": "Clevelad"
+    },
+    {
+        "dir": "img/shipgirlIcon/ClevelandIcon.png",
+        "shipname": "Cleveland"
+    },
+    {
+        "dir": "img/shipgirlIcon/Cleveland_(Muse)Icon.png",
+        "shipname": "Cleveland (Muse)"
+    },
+    {
+        "dir": "img/shipgirlIcon/ColoradoIcon.png",
+        "shipname": "Colorado"
+    },
+    {
+        "dir": "img/shipgirlIcon/ColumbiaIcon.png",
+        "shipname": "Columbia"
+    },
+    {
+        "dir": "img/shipgirlIcon/CometIcon.png",
+        "shipname": "Comet"
+    },
+    {
+        "dir": "img/shipgirlIcon/ConcordIcon.png",
+        "shipname": "Concord"
+    },
+    {
+        "dir": "img/shipgirlIcon/Conte_di_CavourIcon.png",
+        "shipname": "Conte di Cavour"
+    },
+    {
+        "dir": "img/shipgirlIcon/CooperIcon.png",
+        "shipname": "Cooper"
+    },
+    {
+        "dir": "img/shipgirlIcon/CravenIcon.png",
+        "shipname": "Craven"
+    },
+    {
+        "dir": "img/shipgirlIcon/CrescentIcon.png",
+        "shipname": "Crescent"
+    },
+    {
+        "dir": "img/shipgirlIcon/CuracoaIcon.png",
+        "shipname": "Curacoa"
+    },
+    {
+        "dir": "img/shipgirlIcon/CurlewIcon.png",
+        "shipname": "Curlew"
+    },
+    {
+        "dir": "img/shipgirlIcon/CygnetIcon.png",
+        "shipname": "Cygnet"
+    },
+    {
+        "dir": "img/shipgirlIcon/DaceIcon.png",
+        "shipname": "Dace"
+    },
+    {
+        "dir": "img/shipgirlIcon/DenverIcon.png",
+        "shipname": "Denver"
+    },
+    {
+        "dir": "img/shipgirlIcon/DeutschlandIcon.png",
+        "shipname": "Deutschland"
+    },
+    {
+        "dir": "img/shipgirlIcon/DeweyIcon.png",
+        "shipname": "Dewey"
+    },
+    {
+        "dir": "img/shipgirlIcon/DidoIcon.png",
+        "shipname": "Dido"
+    },
+    {
+        "dir": "img/shipgirlIcon/DorsetshireIcon.png",
+        "shipname": "Dorsetshire"
+    },
+    {
+        "dir": "img/shipgirlIcon/DownesIcon.png",
+        "shipname": "Downes"
+    },
+    {
+        "dir": "img/shipgirlIcon/Duke_of_YorkIcon.png",
+        "shipname": "Duke of York"
+    },
+    {
+        "dir": "img/shipgirlIcon/DunkerqueIcon.png",
+        "shipname": "Dunkerque"
+    },
+    {
+        "dir": "img/shipgirlIcon/EchoIcon.png",
+        "shipname": "Echo"
+    },
+    {
+        "dir": "img/shipgirlIcon/EdinburghIcon.png",
+        "shipname": "Edinburgh"
+    },
+    {
+        "dir": "img/shipgirlIcon/EldridgeIcon.png",
+        "shipname": "Eldridge"
+    },
+    {
+        "dir": "img/shipgirlIcon/Elegant_Kizuna_AIIcon.png",
+        "shipname": "Elegant Kizuna AI"
+    },
+    {
+        "dir": "img/shipgirlIcon/EnterpriseIcon.png",
+        "shipname": "Enterprise"
+    },
+    {
+        "dir": "img/shipgirlIcon/ErebusIcon.png",
+        "shipname": "Erebus"
+    },
+    {
+        "dir": "img/shipgirlIcon/EskimoIcon.png",
+        "shipname": "Eskimo"
+    },
+    {
+        "dir": "img/shipgirlIcon/EssexIcon.png",
+        "shipname": "Essex"
+    },
+    {
+        "dir": "img/shipgirlIcon/ExeterIcon.png",
+        "shipname": "Exeter"
+    },
+    {
+        "dir": "img/shipgirlIcon/FijiIcon.png",
+        "shipname": "Fiji"
+    },
+    {
+        "dir": "img/shipgirlIcon/FletcherIcon.png",
+        "shipname": "Fletcher"
+    },
+    {
+        "dir": "img/shipgirlIcon/FooteIcon.png",
+        "shipname": "Foote"
+    },
+    {
+        "dir": "img/shipgirlIcon/ForbinIcon.png",
+        "shipname": "Forbin"
+    },
+    {
+        "dir": "img/shipgirlIcon/FormidableIcon.png",
+        "shipname": "Formidable"
+    },
+    {
+        "dir": "img/shipgirlIcon/FortuneIcon.png",
+        "shipname": "Fortune"
+    },
+    {
+        "dir": "img/shipgirlIcon/FoxhoundIcon.png",
+        "shipname": "Foxhound"
+    },
+    {
+        "dir": "img/shipgirlIcon/Friedrich_der_GrosseIcon.png",
+        "shipname": "Friedrich der Grosse"
+    },
+    {
+        "dir": "img/shipgirlIcon/FubukiIcon.png",
+        "shipname": "Fubuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/FumiruiruIcon.png",
+        "shipname": "Fumiruiru"
+    },
+    {
+        "dir": "img/shipgirlIcon/FumizukiIcon.png",
+        "shipname": "Fumizuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/FurutakaIcon.png",
+        "shipname": "Furutaka"
+    },
+    {
+        "dir": "img/shipgirlIcon/FusouIcon.png",
+        "shipname": "Fusou"
+    },
+    {
+        "dir": "img/shipgirlIcon/Fu_ShunIcon.png",
+        "shipname": "Fu Shun"
+    },
+    {
+        "dir": "img/shipgirlIcon/GalateaIcon.png",
+        "shipname": "Galatea"
+    },
+    {
+        "dir": "img/shipgirlIcon/GangutIcon.png",
+        "shipname": "Gangut"
+    },
+    {
+        "dir": "img/shipgirlIcon/GascogneIcon.png",
+        "shipname": "Gascogne"
+    },
+    {
+        "dir": "img/shipgirlIcon/Gascogne_(Muse)Icon.png",
+        "shipname": "Gascogne (Muse)"
+    },
+    {
+        "dir": "img/shipgirlIcon/GeorgiaIcon.png",
+        "shipname": "Georgia"
+    },
+    {
+        "dir": "img/shipgirlIcon/Giulio_CesareIcon.png",
+        "shipname": "Giulio Cesare"
+    },
+    {
+        "dir": "img/shipgirlIcon/GlasgowIcon.png",
+        "shipname": "Glasgow"
+    },
+    {
+        "dir": "img/shipgirlIcon/GloriousIcon.png",
+        "shipname": "Glorious"
+    },
+    {
+        "dir": "img/shipgirlIcon/GloucesterIcon.png",
+        "shipname": "Gloucester"
+    },
+    {
+        "dir": "img/shipgirlIcon/GlowwormIcon.png",
+        "shipname": "Glowworm"
+    },
+    {
+        "dir": "img/shipgirlIcon/GneisenauIcon.png",
+        "shipname": "Gneisenau"
+    },
+    {
+        "dir": "img/shipgirlIcon/Graf_ZeppelinIcon.png",
+        "shipname": "Graf Zeppelin"
+    },
+    {
+        "dir": "img/shipgirlIcon/Green_HeartIcon.png",
+        "shipname": "Green Heart"
+    },
+    {
+        "dir": "img/shipgirlIcon/GrenvilleIcon.png",
+        "shipname": "Grenville"
+    },
+    {
+        "dir": "img/shipgirlIcon/GridleyIcon.png",
+        "shipname": "Gridley"
+    },
+    {
+        "dir": "img/shipgirlIcon/GroznyIcon.png",
+        "shipname": "Grozny"
+    },
+    {
+        "dir": "img/shipgirlIcon/Halsey_PowellIcon.png",
+        "shipname": "Halsey Powell"
+    },
+    {
+        "dir": "img/shipgirlIcon/HamakazeIcon.png",
+        "shipname": "Hamakaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/HammannIcon.png",
+        "shipname": "Hammann"
+    },
+    {
+        "dir": "img/shipgirlIcon/HanazukiIcon.png",
+        "shipname": "Hanazuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/HardyIcon.png",
+        "shipname": "Hardy"
+    },
+    {
+        "dir": "img/shipgirlIcon/HarunaIcon.png",
+        "shipname": "Haruna"
+    },
+    {
+        "dir": "img/shipgirlIcon/HarutsukiIcon.png",
+        "shipname": "Harutsuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/HatakazeIcon.png",
+        "shipname": "Hatakaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/HatsuharuIcon.png",
+        "shipname": "Hatsuharu"
+    },
+    {
+        "dir": "img/shipgirlIcon/HatsushimoIcon.png",
+        "shipname": "Hatsushimo"
+    },
+    {
+        "dir": "img/shipgirlIcon/HazelwoodIcon.png",
+        "shipname": "Hazelwood"
+    },
+    {
+        "dir": "img/shipgirlIcon/HDN_NeptuneIcon.png",
+        "shipname": "HDN Neptune"
+    },
+    {
+        "dir": "img/shipgirlIcon/HelenaIcon.png",
+        "shipname": "Helena"
+    },
+    {
+        "dir": "img/shipgirlIcon/HermesIcon.png",
+        "shipname": "Hermes"
+    },
+    {
+        "dir": "img/shipgirlIcon/HibikiIcon.png",
+        "shipname": "Hibiki"
+    },
+    {
+        "dir": "img/shipgirlIcon/Hiei-chanIcon.png",
+        "shipname": "Hiei-chan"
+    },
+    {
+        "dir": "img/shipgirlIcon/HieiIcon.png",
+        "shipname": "Hiei"
+    },
+    {
+        "dir": "img/shipgirlIcon/HiryuuIcon.png",
+        "shipname": "Hiryuu"
+    },
+    {
+        "dir": "img/shipgirlIcon/HiyouIcon.png",
+        "shipname": "Hiyou"
+    },
+    {
+        "dir": "img/shipgirlIcon/HMS_NeptuneIcon.png",
+        "shipname": "HMS Neptune"
+    },
+    {
+        "dir": "img/shipgirlIcon/HobbyIcon.png",
+        "shipname": "Hobby"
+    },
+    {
+        "dir": "img/shipgirlIcon/HonoluluIcon.png",
+        "shipname": "Honolulu"
+    },
+    {
+        "dir": "img/shipgirlIcon/HoodIcon.png",
+        "shipname": "Hood"
+    },
+    {
+        "dir": "img/shipgirlIcon/HornetIcon.png",
+        "shipname": "Hornet"
+    },
+    {
+        "dir": "img/shipgirlIcon/HoushouIcon.png",
+        "shipname": "Houshou"
+    },
+    {
+        "dir": "img/shipgirlIcon/HoustonIcon.png",
+        "shipname": "Houston"
+    },
+    {
+        "dir": "img/shipgirlIcon/HunterIcon.png",
+        "shipname": "Hunter"
+    },
+    {
+        "dir": "img/shipgirlIcon/HyuugaIcon.png",
+        "shipname": "Hyuuga"
+    },
+    {
+        "dir": "img/shipgirlIcon/I-13Icon.png",
+        "shipname": "I-13"
+    },
+    {
+        "dir": "img/shipgirlIcon/I-168Icon.png",
+        "shipname": "I-168"
+    },
+    {
+        "dir": "img/shipgirlIcon/I-19Icon.png",
+        "shipname": "I-19"
+    },
+    {
+        "dir": "img/shipgirlIcon/I-25Icon.png",
+        "shipname": "I-25"
+    },
+    {
+        "dir": "img/shipgirlIcon/I-26Icon.png",
+        "shipname": "I-26"
+    },
+    {
+        "dir": "img/shipgirlIcon/I-56Icon.png",
+        "shipname": "I-56"
+    },
+    {
+        "dir": "img/shipgirlIcon/I-58Icon.png",
+        "shipname": "I-58"
+    },
+    {
+        "dir": "img/shipgirlIcon/IbukiIcon.png",
+        "shipname": "Ibuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/IkazuchiIcon.png",
+        "shipname": "Ikazuchi"
+    },
+    {
+        "dir": "img/shipgirlIcon/IllustriousIcon.png",
+        "shipname": "Illustrious"
+    },
+    {
+        "dir": "img/shipgirlIcon/InazumaIcon.png",
+        "shipname": "Inazuma"
+    },
+    {
+        "dir": "img/shipgirlIcon/IndependenceIcon.png",
+        "shipname": "Independence"
+    },
+    {
+        "dir": "img/shipgirlIcon/IndianapolisIcon.png",
+        "shipname": "Indianapolis"
+    },
+    {
+        "dir": "img/shipgirlIcon/IntrepidIcon.png",
+        "shipname": "Intrepid"
+    },
+    {
+        "dir": "img/shipgirlIcon/IseIcon.png",
+        "shipname": "Ise"
+    },
+    {
+        "dir": "img/shipgirlIcon/IsokazeIcon.png",
+        "shipname": "Isokaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/IsuzuIcon.png",
+        "shipname": "Isuzu"
+    },
+    {
+        "dir": "img/shipgirlIcon/IzumoIcon.png",
+        "shipname": "Izumo"
+    },
+    {
+        "dir": "img/shipgirlIcon/JamaicaIcon.png",
+        "shipname": "Jamaica"
+    },
+    {
+        "dir": "img/shipgirlIcon/JavelinIcon.png",
+        "shipname": "Javelin"
+    },
+    {
+        "dir": "img/shipgirlIcon/Jeanne_d'ArcIcon.png",
+        "shipname": "Jeanne d'Arc"
+    },
+    {
+        "dir": "img/shipgirlIcon/Jean_BartIcon.png",
+        "shipname": "Jean Bart"
+    },
+    {
+        "dir": "img/shipgirlIcon/JenkinsIcon.png",
+        "shipname": "Jenkins"
+    },
+    {
+        "dir": "img/shipgirlIcon/JerseyIcon.png",
+        "shipname": "Jersey"
+    },
+    {
+        "dir": "img/shipgirlIcon/JintsuuIcon.png",
+        "shipname": "Jintsuu"
+    },
+    {
+        "dir": "img/shipgirlIcon/JuneauIcon.png",
+        "shipname": "Juneau"
+    },
+    {
+        "dir": "img/shipgirlIcon/JunoIcon.png",
+        "shipname": "Juno"
+    },
+    {
+        "dir": "img/shipgirlIcon/JunyouIcon.png",
+        "shipname": "Junyou"
+    },
+    {
+        "dir": "img/shipgirlIcon/JupiterIcon.png",
+        "shipname": "Jupiter"
+    },
+    {
+        "dir": "img/shipgirlIcon/KagaIcon.png",
+        "shipname": "Kaga"
+    },
+    {
+        "dir": "img/shipgirlIcon/Kaga_(Battleship)Icon.png",
+        "shipname": "Kaga (Battleship)"
+    },
+    {
+        "dir": "img/shipgirlIcon/KagerouIcon.png",
+        "shipname": "Kagerou"
+    },
+    {
+        "dir": "img/shipgirlIcon/KakoIcon.png",
+        "shipname": "Kako"
+    },
+    {
+        "dir": "img/shipgirlIcon/KalkIcon.png",
+        "shipname": "Kalk"
+    },
+    {
+        "dir": "img/shipgirlIcon/KamikazeIcon.png",
+        "shipname": "Kamikaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/KarlsruheIcon.png",
+        "shipname": "Karlsruhe"
+    },
+    {
+        "dir": "img/shipgirlIcon/KasumiIcon.png",
+        "shipname": "Kasumi"
+    },
+    {
+        "dir": "img/shipgirlIcon/KawakazeIcon.png",
+        "shipname": "Kawakaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/KentIcon.png",
+        "shipname": "Kent"
+    },
+    {
+        "dir": "img/shipgirlIcon/KimberlyIcon.png",
+        "shipname": "Kimberly"
+    },
+    {
+        "dir": "img/shipgirlIcon/King_George_VIcon.png",
+        "shipname": "King George V"
+    },
+    {
+        "dir": "img/shipgirlIcon/KinugasaIcon.png",
+        "shipname": "Kinugasa"
+    },
+    {
+        "dir": "img/shipgirlIcon/KinuIcon.png",
+        "shipname": "Kinu"
+    },
+    {
+        "dir": "img/shipgirlIcon/KirishimaIcon.png",
+        "shipname": "Kirishima"
+    },
+    {
+        "dir": "img/shipgirlIcon/KisaragiIcon.png",
+        "shipname": "Kisaragi"
+    },
+    {
+        "dir": "img/shipgirlIcon/KitakazeIcon.png",
+        "shipname": "Kitakaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/KiyonamiIcon.png",
+        "shipname": "Kiyonami"
+    },
+    {
+        "dir": "img/shipgirlIcon/Kizuna_AIIcon.png",
+        "shipname": "Kizuna AI"
+    },
+    {
+        "dir": "img/shipgirlIcon/KongouIcon.png",
+        "shipname": "Kongou"
+    },
+    {
+        "dir": "img/shipgirlIcon/KuonIcon.png",
+        "shipname": "Kuon"
+    },
+    {
+        "dir": "img/shipgirlIcon/KuroshioIcon.png",
+        "shipname": "Kuroshio"
+    },
+    {
+        "dir": "img/shipgirlIcon/KölnIcon.png",
+        "shipname": "Köln"
+    },
+    {
+        "dir": "img/shipgirlIcon/KönigsbergIcon.png",
+        "shipname": "Königsberg"
+    },
+    {
+        "dir": "img/shipgirlIcon/L'OpiniâtreIcon.png",
+        "shipname": "L'Opiniâtre"
+    },
+    {
+        "dir": "img/shipgirlIcon/LaffeyIcon.png",
+        "shipname": "Laffey"
+    },
+    {
+        "dir": "img/shipgirlIcon/LangleyIcon.png",
+        "shipname": "Langley"
+    },
+    {
+        "dir": "img/shipgirlIcon/La_GalissonnièreIcon.png",
+        "shipname": "La Galissonnière"
+    },
+    {
+        "dir": "img/shipgirlIcon/LeanderIcon.png",
+        "shipname": "Leander"
+    },
+    {
+        "dir": "img/shipgirlIcon/LeipzigIcon.png",
+        "shipname": "Leipzig"
+    },
+    {
+        "dir": "img/shipgirlIcon/LenaIcon.png",
+        "shipname": "Lena"
+    },
+    {
+        "dir": "img/shipgirlIcon/LexingtonIcon.png",
+        "shipname": "Lexington"
+    },
+    {
+        "dir": "img/shipgirlIcon/Le_MalinIcon.png",
+        "shipname": "Le Malin"
+    },
+    {
+        "dir": "img/shipgirlIcon/Le_MarsIcon.png",
+        "shipname": "Le Mars"
+    },
+    {
+        "dir": "img/shipgirlIcon/Le_TriomphantIcon.png",
+        "shipname": "Le Triomphant"
+    },
+    {
+        "dir": "img/shipgirlIcon/Le_TéméraireIcon.png",
+        "shipname": "Le Téméraire"
+    },
+    {
+        "dir": "img/shipgirlIcon/Li'l_SandyIcon.png",
+        "shipname": "Li'l Sandy"
+    },
+    {
+        "dir": "img/shipgirlIcon/Little_BelIcon.png",
+        "shipname": "Little Bel"
+    },
+    {
+        "dir": "img/shipgirlIcon/Little_IllustriousIcon.png",
+        "shipname": "Little Illustrious"
+    },
+    {
+        "dir": "img/shipgirlIcon/Little_RenownIcon.png",
+        "shipname": "Little Renown"
+    },
+    {
+        "dir": "img/shipgirlIcon/LittorioIcon.png",
+        "shipname": "Littorio"
+    },
+    {
+        "dir": "img/shipgirlIcon/LondonIcon.png",
+        "shipname": "London"
+    },
+    {
+        "dir": "img/shipgirlIcon/Long_IslandIcon.png",
+        "shipname": "Long Island"
+    },
+    {
+        "dir": "img/shipgirlIcon/MakinamiIcon.png",
+        "shipname": "Makinami"
+    },
+    {
+        "dir": "img/shipgirlIcon/MarbleheadIcon.png",
+        "shipname": "Marblehead"
+    },
+    {
+        "dir": "img/shipgirlIcon/MarylandIcon.png",
+        "shipname": "Maryland"
+    },
+    {
+        "dir": "img/shipgirlIcon/MassachusettsIcon.png",
+        "shipname": "Massachusetts"
+    },
+    {
+        "dir": "img/shipgirlIcon/MatchlessIcon.png",
+        "shipname": "Matchless"
+    },
+    {
+        "dir": "img/shipgirlIcon/MatsukazeIcon.png",
+        "shipname": "Matsukaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/MauryIcon.png",
+        "shipname": "Maury"
+    },
+    {
+        "dir": "img/shipgirlIcon/MayaIcon.png",
+        "shipname": "Maya"
+    },
+    {
+        "dir": "img/shipgirlIcon/McCallIcon.png",
+        "shipname": "McCall"
+    },
+    {
+        "dir": "img/shipgirlIcon/MemphisIcon.png",
+        "shipname": "Memphis"
+    },
+    {
+        "dir": "img/shipgirlIcon/MichishioIcon.png",
+        "shipname": "Michishio"
+    },
+    {
+        "dir": "img/shipgirlIcon/MikasaIcon.png",
+        "shipname": "Mikasa"
+    },
+    {
+        "dir": "img/shipgirlIcon/MikazukiIcon.png",
+        "shipname": "Mikazuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/MikumaIcon.png",
+        "shipname": "Mikuma"
+    },
+    {
+        "dir": "img/shipgirlIcon/Minato_AquaIcon.png",
+        "shipname": "Minato Aqua"
+    },
+    {
+        "dir": "img/shipgirlIcon/MinazukiIcon.png",
+        "shipname": "Minazuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/MinneapolisIcon.png",
+        "shipname": "Minneapolis"
+    },
+    {
+        "dir": "img/shipgirlIcon/MinskIcon.png",
+        "shipname": "Minsk"
+    },
+    {
+        "dir": "img/shipgirlIcon/MogamiIcon.png",
+        "shipname": "Mogami"
+    },
+    {
+        "dir": "img/shipgirlIcon/MonarchIcon.png",
+        "shipname": "Monarch"
+    },
+    {
+        "dir": "img/shipgirlIcon/MontpelierIcon.png",
+        "shipname": "Montpelier"
+    },
+    {
+        "dir": "img/shipgirlIcon/MullanyIcon.png",
+        "shipname": "Mullany"
+    },
+    {
+        "dir": "img/shipgirlIcon/Murasaki_ShionIcon.png",
+        "shipname": "Murasaki Shion"
+    },
+    {
+        "dir": "img/shipgirlIcon/MusketeerIcon.png",
+        "shipname": "Musketeer"
+    },
+    {
+        "dir": "img/shipgirlIcon/MutsuIcon.png",
+        "shipname": "Mutsu"
+    },
+    {
+        "dir": "img/shipgirlIcon/MutsukiIcon.png",
+        "shipname": "Mutsuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/MyoukouIcon.png",
+        "shipname": "Myoukou"
+    },
+    {
+        "dir": "img/shipgirlIcon/NachiIcon.png",
+        "shipname": "Nachi"
+    },
+    {
+        "dir": "img/shipgirlIcon/NaganamiIcon.png",
+        "shipname": "Naganami"
+    },
+    {
+        "dir": "img/shipgirlIcon/NagaraIcon.png",
+        "shipname": "Nagara"
+    },
+    {
+        "dir": "img/shipgirlIcon/NagatoIcon.png",
+        "shipname": "Nagato"
+    },
+    {
+        "dir": "img/shipgirlIcon/NagatsukiIcon.png",
+        "shipname": "Nagatsuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/NakaIcon.png",
+        "shipname": "Naka"
+    },
+    {
+        "dir": "img/shipgirlIcon/Nakiri_AyameIcon.png",
+        "shipname": "Nakiri Ayame"
+    },
+    {
+        "dir": "img/shipgirlIcon/Natsuiro_MatsuriIcon.png",
+        "shipname": "Natsuiro Matsuri"
+    },
+    {
+        "dir": "img/shipgirlIcon/NekoneIcon.png",
+        "shipname": "Nekone"
+    },
+    {
+        "dir": "img/shipgirlIcon/NelsonIcon.png",
+        "shipname": "Nelson"
+    },
+    {
+        "dir": "img/shipgirlIcon/NevadaIcon.png",
+        "shipname": "Nevada"
+    },
+    {
+        "dir": "img/shipgirlIcon/NewcastleIcon.png",
+        "shipname": "Newcastle"
+    },
+    {
+        "dir": "img/shipgirlIcon/NicholasIcon.png",
+        "shipname": "Nicholas"
+    },
+    {
+        "dir": "img/shipgirlIcon/NiizukiIcon.png",
+        "shipname": "Niizuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/Ning_HaiIcon.png",
+        "shipname": "Ning Hai"
+    },
+    {
+        "dir": "img/shipgirlIcon/NoireIcon.png",
+        "shipname": "Noire"
+    },
+    {
+        "dir": "img/shipgirlIcon/NorfolkIcon.png",
+        "shipname": "Norfolk"
+    },
+    {
+        "dir": "img/shipgirlIcon/NorthamptonIcon.png",
+        "shipname": "Northampton"
+    },
+    {
+        "dir": "img/shipgirlIcon/North_CarolinaIcon.png",
+        "shipname": "North Carolina"
+    },
+    {
+        "dir": "img/shipgirlIcon/NoshiroIcon.png",
+        "shipname": "Noshiro"
+    },
+    {
+        "dir": "img/shipgirlIcon/NowakiIcon.png",
+        "shipname": "Nowaki"
+    },
+    {
+        "dir": "img/shipgirlIcon/OklahomaIcon.png",
+        "shipname": "Oklahoma"
+    },
+    {
+        "dir": "img/shipgirlIcon/OmahaIcon.png",
+        "shipname": "Omaha"
+    },
+    {
+        "dir": "img/shipgirlIcon/Ookami_MioIcon.png",
+        "shipname": "Ookami Mio"
+    },
+    {
+        "dir": "img/shipgirlIcon/OoshioIcon.png",
+        "shipname": "Ooshio"
+    },
+    {
+        "dir": "img/shipgirlIcon/OyashioIcon.png",
+        "shipname": "Oyashio"
+    },
+    {
+        "dir": "img/shipgirlIcon/Pamiat_MerkuriaIcon.png",
+        "shipname": "Pamiat Merkuria"
+    },
+    {
+        "dir": "img/shipgirlIcon/PennsylvaniaIcon.png",
+        "shipname": "Pennsylvania"
+    },
+    {
+        "dir": "img/shipgirlIcon/PensacolaIcon.png",
+        "shipname": "Pensacola"
+    },
+    {
+        "dir": "img/shipgirlIcon/PhoenixIcon.png",
+        "shipname": "Phoenix"
+    },
+    {
+        "dir": "img/shipgirlIcon/Ping_HaiIcon.png",
+        "shipname": "Ping Hai"
+    },
+    {
+        "dir": "img/shipgirlIcon/PortlandIcon.png",
+        "shipname": "Portland"
+    },
+    {
+        "dir": "img/shipgirlIcon/Prince_of_WalesIcon.png",
+        "shipname": "Prince of Wales"
+    },
+    {
+        "dir": "img/shipgirlIcon/Prinz_EugenIcon.png",
+        "shipname": "Prinz Eugen"
+    },
+    {
+        "dir": "img/shipgirlIcon/Prototype_Bulin_MKIIIcon.png",
+        "shipname": "Prototype Bulin MKII"
+    },
+    {
+        "dir": "img/shipgirlIcon/Purple_HeartIcon.png",
+        "shipname": "Purple Heart"
+    },
+    {
+        "dir": "img/shipgirlIcon/Queen_ElizabethIcon.png",
+        "shipname": "Queen Elizabeth"
+    },
+    {
+        "dir": "img/shipgirlIcon/QuincyIcon.png",
+        "shipname": "Quincy"
+    },
+    {
+        "dir": "img/shipgirlIcon/RadfordIcon.png",
+        "shipname": "Radford"
+    },
+    {
+        "dir": "img/shipgirlIcon/RaleighIcon.png",
+        "shipname": "Raleigh"
+    },
+    {
+        "dir": "img/shipgirlIcon/RangerIcon.png",
+        "shipname": "Ranger"
+    },
+    {
+        "dir": "img/shipgirlIcon/RenoIcon.png",
+        "shipname": "Reno"
+    },
+    {
+        "dir": "img/shipgirlIcon/RenownIcon.png",
+        "shipname": "Renown"
+    },
+    {
+        "dir": "img/shipgirlIcon/RepulseIcon.png",
+        "shipname": "Repulse"
+    },
+    {
+        "dir": "img/shipgirlIcon/RichelieuIcon.png",
+        "shipname": "Richelieu"
+    },
+    {
+        "dir": "img/shipgirlIcon/RichmondIcon.png",
+        "shipname": "Richmond"
+    },
+    {
+        "dir": "img/shipgirlIcon/RodneyIcon.png",
+        "shipname": "Rodney"
+    },
+    {
+        "dir": "img/shipgirlIcon/RoonIcon.png",
+        "shipname": "Roon"
+    },
+    {
+        "dir": "img/shipgirlIcon/RurutieIcon.png",
+        "shipname": "Rurutie"
+    },
+    {
+        "dir": "img/shipgirlIcon/RyuuhouIcon.png",
+        "shipname": "Ryuuhou"
+    },
+    {
+        "dir": "img/shipgirlIcon/RyuujouIcon.png",
+        "shipname": "Ryuujou"
+    },
+    {
+        "dir": "img/shipgirlIcon/Saint_LouisIcon.png",
+        "shipname": "Saint Louis"
+    },
+    {
+        "dir": "img/shipgirlIcon/Salt_Lake_CityIcon.png",
+        "shipname": "Salt Lake City"
+    },
+    {
+        "dir": "img/shipgirlIcon/San_DiegoIcon.png",
+        "shipname": "San Diego"
+    },
+    {
+        "dir": "img/shipgirlIcon/San_JuanIcon.png",
+        "shipname": "San Juan"
+    },
+    {
+        "dir": "img/shipgirlIcon/SaraanaIcon.png",
+        "shipname": "Saraana"
+    },
+    {
+        "dir": "img/shipgirlIcon/SaratogaIcon.png",
+        "shipname": "Saratoga"
+    },
+    {
+        "dir": "img/shipgirlIcon/ScharnhorstIcon.png",
+        "shipname": "Scharnhorst"
+    },
+    {
+        "dir": "img/shipgirlIcon/SeattleIcon.png",
+        "shipname": "Seattle"
+    },
+    {
+        "dir": "img/shipgirlIcon/SendaiIcon.png",
+        "shipname": "Sendai"
+    },
+    {
+        "dir": "img/shipgirlIcon/Shangri-LaIcon.png",
+        "shipname": "Shangri-La"
+    },
+    {
+        "dir": "img/shipgirlIcon/SheffieldIcon.png",
+        "shipname": "Sheffield"
+    },
+    {
+        "dir": "img/shipgirlIcon/Sheffield_(Muse)Icon.png",
+        "shipname": "Sheffield (Muse)"
+    },
+    {
+        "dir": "img/shipgirlIcon/ShigureIcon.png",
+        "shipname": "Shigure"
+    },
+    {
+        "dir": "img/shipgirlIcon/Shirakami_FubukiIcon.png",
+        "shipname": "Shirakami Fubuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/ShiranuiIcon.png",
+        "shipname": "Shiranui"
+    },
+    {
+        "dir": "img/shipgirlIcon/ShiratsuyuIcon.png",
+        "shipname": "Shiratsuyu"
+    },
+    {
+        "dir": "img/shipgirlIcon/ShouhouIcon.png",
+        "shipname": "Shouhou"
+    },
+    {
+        "dir": "img/shipgirlIcon/ShoukakuIcon.png",
+        "shipname": "Shoukaku"
+    },
+    {
+        "dir": "img/shipgirlIcon/ShropshireIcon.png",
+        "shipname": "Shropshire"
+    },
+    {
+        "dir": "img/shipgirlIcon/SimsIcon.png",
+        "shipname": "Sims"
+    },
+    {
+        "dir": "img/shipgirlIcon/SiriusIcon.png",
+        "shipname": "Sirius"
+    },
+    {
+        "dir": "img/shipgirlIcon/SmalleyIcon.png",
+        "shipname": "Smalley"
+    },
+    {
+        "dir": "img/shipgirlIcon/SouryuuIcon.png",
+        "shipname": "Souryuu"
+    },
+    {
+        "dir": "img/shipgirlIcon/SouthamptonIcon.png",
+        "shipname": "Southampton"
+    },
+    {
+        "dir": "img/shipgirlIcon/South_DakotaIcon.png",
+        "shipname": "South Dakota"
+    },
+    {
+        "dir": "img/shipgirlIcon/Sovetskaya_RossiyaIcon.png",
+        "shipname": "Sovetskaya Rossiya"
+    },
+    {
+        "dir": "img/shipgirlIcon/SpenceIcon.png",
+        "shipname": "Spence"
+    },
+    {
+        "dir": "img/shipgirlIcon/St._LouisIcon.png",
+        "shipname": "St. Louis"
+    },
+    {
+        "dir": "img/shipgirlIcon/StanlyIcon.png",
+        "shipname": "Stanly"
+    },
+    {
+        "dir": "img/shipgirlIcon/SuffolkIcon.png",
+        "shipname": "Suffolk"
+    },
+    {
+        "dir": "img/shipgirlIcon/Super_Gamer_Kizuna_AIIcon.png",
+        "shipname": "Super Gamer Kizuna AI"
+    },
+    {
+        "dir": "img/shipgirlIcon/SurcoufIcon.png",
+        "shipname": "Surcouf"
+    },
+    {
+        "dir": "img/shipgirlIcon/SurugaIcon.png",
+        "shipname": "Suruga"
+    },
+    {
+        "dir": "img/shipgirlIcon/SussexIcon.png",
+        "shipname": "Sussex"
+    },
+    {
+        "dir": "img/shipgirlIcon/SuzuyaIcon.png",
+        "shipname": "Suzuya"
+    },
+    {
+        "dir": "img/shipgirlIcon/SwiftsureIcon.png",
+        "shipname": "Swiftsure"
+    },
+    {
+        "dir": "img/shipgirlIcon/TaihouIcon.png",
+        "shipname": "Taihou"
+    },
+    {
+        "dir": "img/shipgirlIcon/Tai_YuanIcon.png",
+        "shipname": "Tai Yuan"
+    },
+    {
+        "dir": "img/shipgirlIcon/TakaoIcon.png",
+        "shipname": "Takao"
+    },
+    {
+        "dir": "img/shipgirlIcon/TanikazeIcon.png",
+        "shipname": "Tanikaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/TartuIcon.png",
+        "shipname": "Tartu"
+    },
+    {
+        "dir": "img/shipgirlIcon/TashkentIcon.png",
+        "shipname": "Tashkent"
+    },
+    {
+        "dir": "img/shipgirlIcon/TennesseeIcon.png",
+        "shipname": "Tennessee"
+    },
+    {
+        "dir": "img/shipgirlIcon/TerrorIcon.png",
+        "shipname": "Terror"
+    },
+    {
+        "dir": "img/shipgirlIcon/ThatcherIcon.png",
+        "shipname": "Thatcher"
+    },
+    {
+        "dir": "img/shipgirlIcon/TirpitzIcon.png",
+        "shipname": "Tirpitz"
+    },
+    {
+        "dir": "img/shipgirlIcon/Tokino_SoraIcon.png",
+        "shipname": "Tokino Sora"
+    },
+    {
+        "dir": "img/shipgirlIcon/TosaIcon.png",
+        "shipname": "Tosa"
+    },
+    {
+        "dir": "img/shipgirlIcon/TrentoIcon.png",
+        "shipname": "Trento"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-101Icon.png",
+        "shipname": "U-101"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-110Icon.png",
+        "shipname": "U-110"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-47Icon.png",
+        "shipname": "U-47"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-522Icon.png",
+        "shipname": "U-522"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-556Icon.png",
+        "shipname": "U-556"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-557Icon.png",
+        "shipname": "U-557"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-73Icon.png",
+        "shipname": "U-73"
+    },
+    {
+        "dir": "img/shipgirlIcon/U-81Icon.png",
+        "shipname": "U-81"
+    },
+    {
+        "dir": "img/shipgirlIcon/UnicornIcon.png",
+        "shipname": "Unicorn"
+    },
+    {
+        "dir": "img/shipgirlIcon/Universal_BulinIcon.png",
+        "shipname": "Universal Bulin"
+    },
+    {
+        "dir": "img/shipgirlIcon/UrakazeIcon.png",
+        "shipname": "Urakaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/UranamiIcon.png",
+        "shipname": "Uranami"
+    },
+    {
+        "dir": "img/shipgirlIcon/UruuruIcon.png",
+        "shipname": "Uruuru"
+    },
+    {
+        "dir": "img/shipgirlIcon/UzukiIcon.png",
+        "shipname": "Uzuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/VampireIcon.png",
+        "shipname": "Vampire"
+    },
+    {
+        "dir": "img/shipgirlIcon/VauquelinIcon.png",
+        "shipname": "Vauquelin"
+    },
+    {
+        "dir": "img/shipgirlIcon/VertIcon.png",
+        "shipname": "Vert"
+    },
+    {
+        "dir": "img/shipgirlIcon/VestalIcon.png",
+        "shipname": "Vestal"
+    },
+    {
+        "dir": "img/shipgirlIcon/VictoriousIcon.png",
+        "shipname": "Victorious"
+    },
+    {
+        "dir": "img/shipgirlIcon/VincennesIcon.png",
+        "shipname": "Vincennes"
+    },
+    {
+        "dir": "img/shipgirlIcon/WakabaIcon.png",
+        "shipname": "Wakaba"
+    },
+    {
+        "dir": "img/shipgirlIcon/WarspiteIcon.png",
+        "shipname": "Warspite"
+    },
+    {
+        "dir": "img/shipgirlIcon/WashingtonIcon.png",
+        "shipname": "Washington"
+    },
+    {
+        "dir": "img/shipgirlIcon/WaspIcon.png",
+        "shipname": "Wasp"
+    },
+    {
+        "dir": "img/shipgirlIcon/West_VirginiaIcon.png",
+        "shipname": "West Virginia"
+    },
+    {
+        "dir": "img/shipgirlIcon/White_HeartIcon.png",
+        "shipname": "White Heart"
+    },
+    {
+        "dir": "img/shipgirlIcon/WichitaIcon.png",
+        "shipname": "Wichita"
+    },
+    {
+        "dir": "img/shipgirlIcon/YamashiroIcon.png",
+        "shipname": "Yamashiro"
+    },
+    {
+        "dir": "img/shipgirlIcon/Yat_SenIcon.png",
+        "shipname": "Yat Sen"
+    },
+    {
+        "dir": "img/shipgirlIcon/YoizukiIcon.png",
+        "shipname": "Yoizuki"
+    },
+    {
+        "dir": "img/shipgirlIcon/YorkIcon.png",
+        "shipname": "York"
+    },
+    {
+        "dir": "img/shipgirlIcon/YorktownIcon.png",
+        "shipname": "Yorktown"
+    },
+    {
+        "dir": "img/shipgirlIcon/YukikazeIcon.png",
+        "shipname": "Yukikaze"
+    },
+    {
+        "dir": "img/shipgirlIcon/YuubariIcon.png",
+        "shipname": "Yuubari"
+    },
+    {
+        "dir": "img/shipgirlIcon/YuudachiIcon.png",
+        "shipname": "Yuudachi"
+    },
+    {
+        "dir": "img/shipgirlIcon/YuugureIcon.png",
+        "shipname": "Yuugure"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z18Icon.png",
+        "shipname": "Z18"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z19Icon.png",
+        "shipname": "Z19"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z1Icon.png",
+        "shipname": "Z1"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z20Icon.png",
+        "shipname": "Z20"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z21Icon.png",
+        "shipname": "Z21"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z23Icon.png",
+        "shipname": "Z23"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z25Icon.png",
+        "shipname": "Z25"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z2Icon.png",
+        "shipname": "Z2"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z35Icon.png",
+        "shipname": "Z35"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z36Icon.png",
+        "shipname": "Z36"
+    },
+    {
+        "dir": "img/shipgirlIcon/Z46Icon.png",
+        "shipname": "Z46"
+    },
+    {
+        "dir": "img/shipgirlIcon/ZaraIcon.png",
+        "shipname": "Zara"
+    },
+    {
+        "dir": "img/shipgirlIcon/ZeppyIcon.png",
+        "shipname": "Zeppy"
+    },
+    {
+        "dir": "img/shipgirlIcon/ZuikakuIcon.png",
+        "shipname": "Zuikaku"
+    },
+    {
+        "dir": "img/shipgirlIcon/Émile_BertinIcon.png",
+        "shipname": "Émile Bertin"
+    }
+]

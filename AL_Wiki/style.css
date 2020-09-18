@@ -1,0 +1,414 @@
+body {
+    margin: 0em;
+    padding: 0em;
+    background-color: #666666;
+    min-height: 100vh;
+}
+
+* {
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+
+/* Main header */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #111111;
+    height: 4rem;
+}
+
+header p {
+    text-align: center;
+    font-size: 2em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+
+/* Main navbar*/
+
+#mainNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #222222;
+    padding: 0 .5rem;
+    box-sizing: border-box;
+}
+
+#mainNav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+#mainNav li {
+    margin: 0;
+    padding: 1rem;
+}
+
+#mainNav ul li:hover {
+    background-color: #1a8cff;
+}
+
+#donateIcon {
+    background-color: #1a8cff;
+    margin: 0;
+    padding: .65rem;
+}
+
+
+/* Main content area */
+
+#mainContentArea {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 2em auto 3em;
+    width: 100%;
+    min-height: 90vh;
+    background-color: #333333;
+    box-shadow: 0 .75rem 1rem #111111;
+    box-sizing: border-box;
+}
+
+@media only screen and (min-width: 769px) {
+    #mainContentArea {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        margin: 2em auto;
+        max-width: 80vw;
+        min-height: 90vh;
+        background-color: #333333;
+        box-shadow: .75rem .75rem 1rem #111000;
+        box-sizing: border-box;
+    }
+}
+
+
+/* Info part */
+
+
+/* Mobile (min width 360px) */
+
+#shipgirlInfoSelector {
+    display: flex;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #111111;
+}
+
+#shipgirlInfoSelector p {
+    padding: 10px;
+    margin: 10px;
+    background-color: #dd2222;
+}
+
+/* Container das informações da shipgirl */
+#shipgirlInfo {
+    visibility: visible;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 100%;
+}
+
+/* Área da imagem e dos seletores de imagem */
+#shipgirlInfoImg {
+    background-color: #454545;
+    width: 100%;
+}
+
+#shipgirlInfoImg img {
+    width: 100%;
+}
+
+#shipgirlInfoImg ul {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    background-color: #111111;
+    margin: 0;
+    padding: 0;
+}
+
+#shipgirlInfoImg ul li {
+    padding: .65rem;
+    margin: .25rem;
+    background-color: #1a8cff;
+}
+
+/* Área das informações da shipgirl */
+#shipgirlDataArea {
+    background-color: #444444;
+    width: 100%;
+    min-height: 200px;
+}
+
+#shipInfoCard {
+    
+}
+
+.shipBasicInfo {
+    position: relative;
+    background-color: #222222;
+}
+
+#shipNameCard {
+    font-size: 1.75rem;
+    margin: 0;
+    padding: 1rem 1rem .25rem;
+}
+
+#shipIdCard {
+    margin: 0;
+    padding: 0 1rem 1rem;
+    font-size: 1rem;
+}
+
+#shipNationCard {
+    position: absolute;
+    right: 10%;
+    top: 1rem;
+    box-shadow: 0 0 .5rem .3rem #ff2a2a;
+}
+
+#shipNationCard img {
+    background-color: #fff;
+    max-width: 116px;
+}
+
+#shipNationCard p {
+    margin: 0;
+    text-align: center;
+    background-color: #000;
+    padding: .1rem 0;
+
+}
+
+#shipRarityCard {
+    margin: 0;
+}
+
+#shipOthersInfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 1rem;
+}
+
+.cardSimpleItem {
+    display: inline-flex;
+    flex-direction: column;
+    margin: .4rem;
+}
+
+.cardSimpleItem p {
+    display: inline-table;
+    margin: 0;
+}
+
+.cardSimpleItem .cardSimpleItemCaption {
+    background-color: #222222;
+    padding: .2rem;
+    font-size: .8rem;
+    margin-bottom: -.2rem;
+    z-index: 1;
+}
+
+.cardSimpleItem .cardSimpleItemValue {
+    background-color: #666666;
+    padding: .3rem;
+    min-width: 8rem;
+}
+
+.cardTableItem {
+    background-color: #777777;
+    margin: .5rem;
+}
+
+.cardTableItem p {
+    margin: 0;
+    padding: .5rem 0;
+    text-align: center;
+    background-color: #000;
+}
+
+.cardTableItem div {
+    margin: 0 auto;
+    padding: 1rem 0;
+    overflow-x: scroll;
+    width: 90%;
+    box-sizing: border-box;
+}
+
+.cardTableItem table {
+    width: 100%;
+    text-align: center;
+    border: 2px solid #000;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+
+.cardTableItem th {
+    background-color: #111111;
+}
+
+.cardTableItem th, td {
+    padding: .5rem .2rem;
+    vertical-align: middle;
+}
+
+.cardTableItem tr:nth-child(odd) {
+    background-color: #333333;
+}
+
+.cardTableItem tr:nth-child(even) {
+    background-color: #555555;
+}
+
+.cardTableItem img {
+    width: 1.5rem;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 .2rem;
+}
+
+@media only screen and (min-width: 769px) {
+    #shipgirlInfoImg {
+        background-color: #aaafff;
+        width: 50%;
+        min-height: 20%;
+    }
+    #shipgirlDataArea {
+        background-color: #fffaaa;
+        width: 50%;
+        min-height: 20%;
+    }
+}
+
+/* Modais */
+
+/* All shipgirls selector */
+
+.modal {
+    visibility: hidden;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, .7)
+}
+
+#shipgirlSelectorAllModal {
+    display: flex;
+    flex-direction: column;
+    background-color: #454545;
+    max-width: 80vw;
+    z-index: 1;
+    margin: 2rem auto 0;
+    box-sizing: border-box;
+}
+
+.modal-header {
+    display: flex;
+    align-items: center;
+    background-color: #111111;
+    margin: 0;
+    text-align: center;
+    height: 39px;
+}
+
+.modal-header p {
+    width: 100%;
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.closeBtn {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #dd2222;
+    padding: 0 .75rem;
+}
+
+.closeBtn {
+    font-size: 34px;
+    font-weight: bold;
+    background-color: #dd2222;
+    padding: 0 .75rem;
+}
+
+#shipSelectorIconArea {
+    display: flex;
+    flex-flow: row wrap;
+    flex-shrink: 0;
+    flex-grow: 1;
+    justify-content: space-around;
+    box-sizing: border-box;
+    margin: 2rem 1rem;
+    max-height: 80vh;
+    overflow-y: scroll;
+}
+
+#shipSelectorIconArea div {
+    display: flex;
+    flex-direction: column;
+    min-width: 58px;
+    max-width: 116px;
+    margin: .3rem 0;
+    background-color: #aaaaaa;
+}
+
+#shipSelectorIconArea img {
+    width: 100%;
+}
+
+#shipSelectorIconArea p {
+    background-color: #222222;
+    text-align: center;
+    margin: 0;
+    padding: .5rem;
+    overflow: scroll;
+    white-space: nowrap;
+    font-size: 1.25rem;
+    scrollbar-width: none;
+}
+
+/* Footer */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #111111;
+    min-height: 5rem;
+    box-shadow: 0 -.2rem 1rem .5rem #0051ff;
+}
+
+footer p {
+    margin: 0;
+    padding: .5rem;
+    font-size: 1.2rem;
+    text-align: center;
+}

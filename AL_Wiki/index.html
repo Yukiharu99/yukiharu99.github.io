@@ -1,0 +1,316 @@
+<html>
+<title>AL BR Wiki</title>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+
+<link rel="stylesheet" href="style.css">
+<script src="./js/scripts.js"></script>
+
+<body>
+    <header>
+        <p>Azur Lane BR - Toolbox</p>
+    </header>
+
+    <nav id="mainNav">
+        <ul>
+            <li><a href="#" onclick="show(1)">Shipgirls</a></li>
+        </ul>
+        <a href="#" id="donateIcon">Donate</a>
+    </nav>
+
+    <main id="mainContentArea">
+        <!--Shipgirl Info-->
+        <section id="shipgirlInfo">
+            <nav id="shipgirlInfoSelector">
+                <p onclick="viewAllShipsSelector()">Todos</p>
+                <p>Por tipo</p>
+            </nav>
+            <article id="shipgirlInfoImg">
+                <img src="./img/Ayanami.png">
+                <ul>
+                    <li>Padrão</li>
+                    <li>Retrofit</li>
+                </ul>
+            </article>
+            <article id="shipgirlDataArea">
+                <div id="shipInfoCard">
+                    <div class="shipBasicInfo">
+                        <p id="shipNameCard">Ayanami</p>
+                        <p id="shipIdCard">[ ID:155 ]</p>
+                        <div id="shipNationCard">
+                            <img src="./img/nationIcon/Sakura_Empire.png">
+                            <p>Sakura Empire</p>
+                        </div>
+                    </div>
+                    <img src="./img/rarityIcon/Elite.png" id="shipRarityCard">
+                    <div id="shipOthersInfo">
+                        <div class="cardSimpleItem">
+                            <p class="cardSimpleItemCaption">Tempo de construção</p>
+                            <p class="cardSimpleItemValue">00:23:00</p>
+                        </div>
+                        <div class="cardSimpleItem">
+                            <p class="cardSimpleItemCaption">Classe</p>
+                            <p class="cardSimpleItemValue">Fubuki (subclasse Ayanami)</p>
+                        </div>
+                        <div class="cardSimpleItem">
+                            <p class="cardSimpleItemCaption">Tipo</p>
+                            <p class="cardSimpleItemValue">Destroyer</p>
+                        </div>
+                    </div>
+
+                    <div class="cardTableItem">
+                        <p class="cardTableItemHeader">Equipamentos</p>
+                        <div>
+                            <table>
+                                <tr>
+                                    <th>Slot</th>
+                                    <th>Eficiência</th>
+                                    <th>Tipo</th>
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                    <td>75% &#8594 80% &#8594 85%</td>
+                                    <td>Arma DD</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>140% &#8594 160% &#8594 165%</td>
+                                    <td>Torpedos</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>70% &#8594 75% &#8594 75%</td>
+                                    <td>Torpedos</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="cardTableItem">
+                        <p class="cardTableItemHeader">Limit Break</p>
+                        <div>
+                            <table>
+                                <tr>
+                                    <th>Etapa</th>
+                                    <th>Bônus</th>
+                                </tr>
+                                <tr>
+                                    <td>Primeiro</td>
+                                    <td>Gains Full Barrage I <br> Torpedo Efficiency +5%</td>
+                                </tr>
+                                <tr>
+                                    <td>Segundo</td>
+                                    <td>Max Torpedo Capacity +1 <br> Pre-Loaded Torpedo +1 <br> Torpedo Efficiency +10%</td>
+                                </tr>
+                                <tr>
+                                    <td>Terceiro</td>
+                                    <td>Upgrades Full Barrage I&#8594II <br> All Weapon Efficiency +5%</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="cardTableItem">
+                        <p class="cardTableItemHeader">Skills</p>
+                        <div>
+                            <table>
+                                <tr>
+                                    <th>Nome</th>
+                                    <th>Descrição</th>
+                                </tr>
+                                <tr>
+                                    <td>The Demon</td>
+                                    <td>When firing main gun, 5% chance to increase own Torpedo stat by 30% (60%) for 12 seconds.</td>
+                                </tr>
+                                <tr>
+                                    <td>Demon Dance (Retrofit)</td>
+                                    <td>Every 20 seconds, 40% (70%) chance to increase own Evasion by 30% for 5 seconds and release a powerful barrage while launching fast torpedoes in a helical pattern.</td>
+                                </tr>
+                                <tr>
+                                    <td>All Out Assault</td>
+                                    <td>Every 15 (10) times the main battery is fired, triggers Full Barrage - Ayanami I (II)</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="cardTableItem">
+                        <p class="cardTableItemHeader">Retrofit</p>
+                        <div>
+                            <table>
+                                <tr>
+                                    <th>Índice</th>
+                                    <th>Projeto</th>
+                                    <th>Bônus</th>
+                                    <th>Materiais</th>
+                                    <th><img src="./img/statsIcon/Coinicon.png" alt=""></th>
+                                    <th>Level</th>
+                                    <th>Limit Break</th>
+                                    <th>Recorrência</th>
+                                    <th>Requisito</th>
+                                </tr>
+                                <tr>
+                                    <td>A</td>
+                                    <td>Hull Improvement I</td>
+                                    <td><img src="./img/statsIcon/Duration.png" alt="HP">+45</td>
+                                    <td>2x<img src="./img/itemIcon/DestroyerT1BP.png" alt="DestroyerT1BP"></td>
+                                    <td>400</td>
+                                    <td>1</td>
+                                    <td>&starf;&starf;&star;&star;&star;</td>
+                                    <td>1</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>B</td>
+                                    <td>Evasion Enhancement Ⅰ</td>
+                                    <td><img src="./img/statsIcon/Evasion.png" alt="">+5</td>
+                                    <td>3x<img src="./img/itemIcon/DestroyerT1BP.png" alt=""></td>
+                                    <td>600</td>
+                                    <td>5</td>
+                                    <td>&starf;&starf;&star;&star;&star;</td>
+                                    <td>1</td>
+                                    <td>A</td>
+                                </tr>
+                                <tr>
+                                    <td>C</td>
+                                    <td>Main Gun Improvement Ⅰ </td>
+                                    <td>Equip 1 Efficiency +5.0% </td>
+                                    <td>3x<img src="./img/itemIcon/DestroyerT1BP.png" alt=""></td>
+                                    <td>800</td>
+                                    <td>20</td>
+                                    <td>&starf;&starf;&starf;&star;&star;</td>
+                                    <td>1</td>
+                                    <td>A</td>
+                                </tr>
+                                <tr>
+                                    <td>D</td>
+                                    <td>Firepower Enhancement Ⅰ </td>
+                                    <td><img src="./img/statsIcon/Firepower.png" alt="">+10</td>
+                                    <td>5x<img src="./img/itemIcon/DestroyerT1BP.png" alt=""></td>
+                                    <td>1000</td>
+                                    <td>25</td>
+                                    <td>&starf;&starf;&starf;&star;&star;</td>
+                                    <td>1</td>
+                                    <td>C</td>
+                                </tr>
+                                <tr>
+                                    <td>E</td>
+                                    <td>Torpedo Improvement Ⅰ </td>
+                                    <td>Equip 2 Efficiency +5.0% </td>
+                                    <td>3x<img src="./img/itemIcon/DestroyerT2BP.png" alt=""></td>
+                                    <td>1200</td>
+                                    <td>35</td>
+                                    <td>&starf;&starf;&starf;&starf;&star;</td>
+                                    <td>1</td>
+                                    <td>C</td>
+                                </tr>
+                                <tr>
+                                    <td>F</td>
+                                    <td>Torpedo Enhancement Ⅰ </td>
+                                    <td><img src="./img/statsIcon/Torpedo.png" alt="">+10</td>
+                                    <td>2x<img src="./img/itemIcon/DestroyerT2BP.png" alt=""></td>
+                                    <td>1500</td>
+                                    <td>40</td>
+                                    <td>&starf;&starf;&starf;&starf;&star;</td>
+                                    <td>1</td>
+                                    <td>E</td>
+                                </tr>
+                                <tr>
+                                    <td>G</td>
+                                    <td>Motor Enhancement 	</td>
+                                    <td><b>Spd</b> +3</td>
+                                    <td>5x<img src="./img/itemIcon/DestroyerT2BP.png" alt=""></td>
+                                    <td>1800</td>
+                                    <td>50</td>
+                                    <td>&starf;&starf;&starf;&starf;&star;</td>
+                                    <td>1</td>
+                                    <td>E</td>
+                                </tr>
+                                <tr>
+                                    <td>H</td>
+                                    <td>Reload Enhancement Ⅱ </td>
+                                    <td><img src="./img/statsIcon/Refill.png" alt="">+5<br><img src="./img/statsIcon/Refill.png" alt="">+10</td>
+                                    <td>1x<img src="./img/itemIcon/DestroyerT2BP.png" alt=""><br>2x<img src="./img/itemIcon/DestroyerT2BP.png" alt=""></td>
+                                    <td>2000</td>
+                                    <td>55</td>
+                                    <td>&starf;&starf;&starf;&starf;&star;</td>
+                                    <td>2</td>
+                                    <td>D,G</td>
+                                </tr>
+                                <tr>
+                                    <td>I</td>
+                                    <td>Hull Improvement Ⅱ </td>
+                                    <td><img src="./img/statsIcon/Duration.png" alt="">+45<br><img src="./img/statsIcon/Duration.png" alt="">+75</td>
+                                    <td>1x<img src="./img/itemIcon/DestroyerT3BP.png" alt=""><br>1x<img src="./img/itemIcon/DestroyerT3BP.png" alt=""></td>
+                                    <td>2500</td>
+                                    <td>70</td>
+                                    <td>&starf;&starf;&starf;&starf;&star;</td>
+                                    <td>2</td>
+                                    <td>G</td>
+                                </tr>
+                                <tr>
+                                    <td>J</td>
+                                    <td>Torpedo Enhancement Ⅱ </td>
+                                    <td><img src="./img/statsIcon/Torpedo.png" alt="">+5<br><img src="./img/statsIcon/Torpedo.png" alt="">+15</td>
+                                    <td>1x<img src="./img/itemIcon/DestroyerT3BP.png" alt=""> e 5x<img src="./img/itemIcon/TorpT3Plate.png" alt=""><br>2x<img src="./img/itemIcon/DestroyerT3BP.png" alt=""> e 15x<img src="./img/itemIcon/TorpT3Plate.png" alt=""></td>
+                                    <td>3000</td>
+                                    <td>85</td>
+                                    <td>&starf;&starf;&starf;&starf;&starf;</td>
+                                    <td>1</td>
+                                    <td>I,J</td>
+                                </tr>
+                                <tr>
+                                    <td>K</td>
+                                    <td>Modernization </td>
+                                    <td><img src="./img/statsIcon/Torpedo.png" alt="">+30, <img src="./img/statsIcon/Evasion.png" alt="">+15</td>
+                                    <td>3x<img src="./img/itemIcon/DestroyerT3BP.png" alt=""> e 1x <img src="./img/shipgirlIcon/AyanamiIcon.png" alt=""> ou 1x <img src="./img/shipgirlIcon/Universal_BulinIcon.png" alt=""></td>
+                                    <td>4000</td>
+                                    <td>85</td>
+                                    <td>&starf;&starf;&starf;&starf;&starf;</td>
+                                    <td>1</td>
+                                    <td>I,J</td>
+                                </tr>
+                                <tr>
+                                    <td>L</td>
+                                    <td>Tactical Learning </td>
+                                    <td>Unlock Skill "Demon Dance"</td>
+                                    <td>2x<img src="./img/itemIcon/DestroyerT3BP.png" alt=""> e 20x<img src="./img/statsIcon/Torpedo.png" alt=""></td>
+                                    <td>3000</td>
+                                    <td>90</td>
+                                    <td>&starf;&starf;&starf;&starf;&starf;</td>
+                                    <td>1</td>
+                                    <td>H,K</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <p>Azur Lane BR - Toolbox é um projeto desenvolvido e mantido por Yukiharu.</p>
+        <p>2020</p>
+    </footer>
+
+<!-- Modais -->
+
+    <container class="modal">
+        <section id="shipgirlSelectorAllModal">
+            <div class="modal-header">
+                <p>Selecione a shipgirl</p>
+                <span class="closeBtn" onclick="hideModal()">&times;</span>
+            </div>
+            <article id="shipSelectorIconArea">
+                <div>
+                    <img src="./img/shipgirlIcon/AyanamiIcon.png">
+                    <p>Ayanami</p>
+                </div>
+            </article>
+        </section>
+    </container>
+</body>
+
+</html>
