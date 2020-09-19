@@ -120,45 +120,143 @@ header p {
 }
 
 /* Container das informações da shipgirl */
-#shipgirlInfo {
-    visibility: visible;
-    display: flex;
-    flex-direction: column;
-    background-color: #ffffff;
-    width: 100%;
+@media only screen and (max-width: 768px) {
+    #shipgirlInfo {
+       visibility: visible;
+        display: flex;
+        flex-direction: column;
+        background-color: #ffffff;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1359px) {
+    #shipgirlInfo {
+        visibility: visible;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        column-gap: .5rem;
+        background-color: inherit;
+        width: 100%;
+        height: 90vh;
+        padding: 1rem;
+        box-sizing: border-box;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+    #shipgirlDataArea {
+        overflow-y: auto;
+    }
+}
+
+@media only screen and (min-width: 1360px) {
+    #shipgirlInfo {
+        visibility: visible;
+        display: grid;
+        grid-template-columns: 30% 70%;
+        column-gap: .5rem;
+        background-color: inherit;
+        width: 100%;
+        height: 90vh;
+        padding: 1rem;
+        box-sizing: border-box;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+    #shipgirlDataArea {
+        overflow-y: auto;
+    }
 }
 
 /* Área da imagem e dos seletores de imagem */
-#shipgirlInfoImg {
-    background-color: #454545;
-    width: 100%;
+
+@media only screen and (max-width: 768px) {
+    #shipgirlInfoImg {
+        display: flex;
+        flex-direction: column;
+        background-color: #454545;
+        width: 100%;
+    }
+
+    #shipgirlInfoImg img {
+        width: 100%;
+    }
+
+    #shipgirlInfoImg ul {
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        justify-content: space-between;
+        background-color: #111111;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #shipgirlInfoImg ul li {
+        padding: .65rem;
+        margin: .25rem;
+        background-color: #1a8cff;
+    }
 }
 
-#shipgirlInfoImg img {
-    width: 100%;
-}
+@media only screen and (min-width: 769px) {
+    #shipgirlInfoImg {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+    }
 
-#shipgirlInfoImg ul {
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-    justify-content: space-between;
-    background-color: #111111;
-    margin: 0;
-    padding: 0;
-}
+    #shipgirlInfoImg .img-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
 
-#shipgirlInfoImg ul li {
-    padding: .65rem;
-    margin: .25rem;
-    background-color: #1a8cff;
+    #shipgirlInfoImg img {
+        max-height: 600px;
+    }
+
+    #shipgirlInfoImg ul {
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        justify-content: space-between;
+        background-color: #111111;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #shipgirlInfoImg ul li {
+        padding: .65rem;
+        margin: .25rem;
+        background-color: #1a8cff;
+    }
 }
 
 /* Área das informações da shipgirl */
+
 #shipgirlDataArea {
     background-color: #444444;
     width: 100%;
-    min-height: 200px;
+}
+
+@media only screen and (max-width: 768px) {
+    
+}
+
+@media only screen and (min-width: 769px) {
+    #shipgirlDataArea {
+        margin-bottom: 2rem;
+        height: 100%;
+    }
 }
 
 #shipInfoCard {
@@ -182,16 +280,32 @@ header p {
     font-size: 1rem;
 }
 
-#shipNationCard {
-    position: absolute;
-    right: 10%;
-    top: 1rem;
-    box-shadow: 0 0 .5rem .3rem #ff2a2a;
+@media only screen and (max-width: 768px), (min-width: 1360px) {
+    #shipNationCard {
+        position: absolute;
+        right: 2rem;
+        top: 1rem;
+        box-shadow: 0 0 .5rem .3rem #ff2a2a;
+    }
+    
+    #shipNationCard img {
+        background-color: #fff;
+        max-width: 116px;
+    }
 }
 
-#shipNationCard img {
-    background-color: #fff;
-    max-width: 116px;
+@media only screen and (min-width: 769px) and (max-width: 1359px) {
+    #shipNationCard {
+        position: absolute;
+        right: 1rem;
+        top: 1rem;
+        box-shadow: 0 0 .5rem .3rem #ff2a2a;
+    }
+    
+    #shipNationCard img {
+        background-color: #fff;
+        max-width: 96px;
+    }
 }
 
 #shipNationCard p {
@@ -199,7 +313,6 @@ header p {
     text-align: center;
     background-color: #000;
     padding: .1rem 0;
-
 }
 
 #shipRarityCard {
@@ -288,19 +401,6 @@ header p {
     display: inline-block;
     vertical-align: middle;
     padding: 0 .2rem;
-}
-
-@media only screen and (min-width: 769px) {
-    #shipgirlInfoImg {
-        background-color: #aaafff;
-        width: 50%;
-        min-height: 20%;
-    }
-    #shipgirlDataArea {
-        background-color: #fffaaa;
-        width: 50%;
-        min-height: 20%;
-    }
 }
 
 /* Modais */

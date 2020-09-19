@@ -21,13 +21,15 @@
 
     <main id="mainContentArea">
         <!--Shipgirl Info-->
+        <nav id="shipgirlInfoSelector">
+            <p onclick="viewAllShipsSelector()">Todos</p>
+            <p>Por tipo</p>
+        </nav>
         <section id="shipgirlInfo">
-            <nav id="shipgirlInfoSelector">
-                <p onclick="viewAllShipsSelector()">Todos</p>
-                <p>Por tipo</p>
-            </nav>
             <article id="shipgirlInfoImg">
-                <img src="./img/Ayanami.png">
+                <div class="img-wrapper">
+                    <img src="./img/Ayanami.png">
+                </div>
                 <ul>
                     <li>Padrão</li>
                     <li>Retrofit</li>
